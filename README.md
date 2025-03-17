@@ -1,1 +1,1 @@
-"# PwJWPII-Zajecia" 
+"# PwJWPII-Zajecia - Bartosz Pawlak - studia magisterskie" 
