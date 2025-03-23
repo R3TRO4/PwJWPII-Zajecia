@@ -1,7 +1,3 @@
-
-
-
-
 class Osoba:
     def __init__(self, imie, nazwisko, wiek):
         self.imie = imie
